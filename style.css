@@ -165,7 +165,7 @@ p {
 
 .kartu-partner img {
     width: 200px;
-    border-radius: 80%;
+    border-radius: 50%;
 }
 
 #CONTACT {
@@ -193,7 +193,7 @@ p {
     margin-top: 50px;
 }
 
-@media screen and (max-width: 991.98px){
+@media screen and (max-width: 991.98x){
     .wrapper{
         width:90%;
     }
